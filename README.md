@@ -6,7 +6,10 @@ A simple Node.js task management API that handles CRUD operations for task manag
 Features
 
 GET /tasks: Retrieve all tasks.
+
 POST /tasks: Create a new task with optional image upload.
+
 PATCH /tasks: Update an existing task (not yet implemented).
+
 DELETE /tasks: Delete a task (not yet implemented).
 
