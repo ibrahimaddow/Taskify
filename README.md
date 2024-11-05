@@ -10,17 +10,3 @@ POST /tasks: Create a new task with optional image upload.
 PATCH /tasks: Update an existing task (not yet implemented).
 DELETE /tasks: Delete a task (not yet implemented).
 
-
-Project Structure
-
-.
-├── controllers
-│   └── taskControllers.js
-├── routes
-│   └── taskRoutes.js
-├── utils
-│   └── fileHandler.js
-├── data
-│   └── tasks.json
-├── server.js
-└── README.md
